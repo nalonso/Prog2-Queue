@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558301118 source:d:\personal\prog ii\queue\main.cpp
+	<iostream>
+	"Queue.h"
+
+1558301163 d:\personal\prog ii\queue\include\queue.h
+	"Node.h"
+
+1558300320 d:\personal\prog ii\queue\include\node.h
+	<cstddef>
+
